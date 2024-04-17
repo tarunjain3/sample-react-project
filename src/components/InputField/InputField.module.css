@@ -1,0 +1,11 @@
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    align-items: start;
+    margin: 1rem 0;
+}
+
+.error {
+    color: red;
+}
